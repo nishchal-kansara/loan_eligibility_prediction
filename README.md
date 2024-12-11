@@ -4,7 +4,12 @@ The "Loan Eligibility Prediction" project aims to create a robust machine learni
 
 In conclusion, the "Loan Eligibility Prediction" project demonstrates the effectiveness of machine learning in the financial sector by accurately assessing loan eligibility based on applicant data. Through careful data preprocessing, feature engineering, and model evaluation, the project highlights how advanced algorithms can provide actionable insights for lenders. The successful implementation of this model can lead to improved decision-making processes, ultimately enhancing the efficiency of loan approval systems and fostering better financial outcomes for both lenders and borrowers.
 
+# Development Environment
+This project was developed using **Google Colab**, a cloud-based platform that allows easy coding, sharing, and access to free GPUs for faster computations.
+
+# Project Demo & Dataset
 Demo: [Loan Eligibility Prediction](https://colab.research.google.com/drive/1gN1JI7t0i-Yg8URJgGFJzyM6gZ6R9y8m) | Dataset: [dataset.csv](https://drive.google.com/file/d/1wc1U7_fabihHKWlnXdxGixAcZtqA6lY3/view)<br><br>
-Check out my projects and resume:<br>
+
+# Check out my projects and resume
 Personal Website: [https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)<br>
 Resume: [https://nishchal-kansara.web.app/resume.html](https://nishchal-kansara.web.app/resume.html)
