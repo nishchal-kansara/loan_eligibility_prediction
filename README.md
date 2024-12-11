@@ -6,7 +6,7 @@ In conclusion, the "Loan Eligibility Prediction" project demonstrates the effect
 
 Demo: [Loan Eligibility Prediction](https://colab.research.google.com/drive/1gN1JI7t0i-Yg8URJgGFJzyM6gZ6R9y8m)
 
-Dataset: [dataset.csv](https://drive.google.com/file/d/1wc1U7_fabihHKWlnXdxGixAcZtqA6lY3/view)
-Check out my projects and resume:
-Personal Website: [https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)
+Dataset: [dataset.csv](https://drive.google.com/file/d/1wc1U7_fabihHKWlnXdxGixAcZtqA6lY3/view)<br>
+Check out my projects and resume:<br>
+Personal Website: [https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)<br>
 Resume: [https://nishchal-kansara.web.app/resume.html](https://nishchal-kansara.web.app/resume.html)
