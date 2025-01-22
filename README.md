@@ -7,9 +7,8 @@ In conclusion, the **"Loan Eligibility Prediction"** project demonstrates the ef
 # Development Environment
 This project was developed using **Google Colab**, a cloud-based platform that allows easy coding, sharing, and access to free GPUs for faster computations.
 
-# Project Demo & Dataset
-1. Project Demo: [Loan Eligibility Prediction](https://colab.research.google.com/drive/1gN1JI7t0i-Yg8URJgGFJzyM6gZ6R9y8m)
-2. Dataset Used: [dataset.csv](https://drive.google.com/file/d/1wc1U7_fabihHKWlnXdxGixAcZtqA6lY3/view)
+# Project Demo: 
+1. Video Tutorial: [Loan Eligibility Prediction](https://youtu.be/zkyZ6k3CbP8)
 
 # Check out My Projects & Resume
 1. Personal Website: [https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)
