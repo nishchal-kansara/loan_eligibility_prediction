@@ -14,4 +14,4 @@ This project was developed using **Google Colab**, a cloud-based platform that a
 1. Personal Website: [https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)
 2. Resume: [https://nishchal-kansara.web.app/resume.html](https://nishchal-kansara.web.app/resume.html)
 
-Connect with me on LinkedIn: [Nishchal Kansara](https://www.linkedin.com/in/nishchal-kansara/)
+Connect with me on LinkedIn: [https://www.linkedin.com/in/nishchal-kansara/](https://www.linkedin.com/in/nishchal-kansara/)
